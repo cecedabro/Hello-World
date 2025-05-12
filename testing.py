@@ -3,7 +3,7 @@ from math import *
 def countdown(total, speed):
   clock = total
   tickspeed = speed
-  while clock>!0:
+  while clock>0:
     print(clock)
     clock =- tickspeed
 
