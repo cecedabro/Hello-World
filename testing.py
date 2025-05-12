@@ -5,6 +5,6 @@ def countdown(total, speed):
   tickspeed = speed
   while clock>0:
     print(clock)
-    clock =- tickspeed
+    clock -= tickspeed
 
 countdown(30,1)
